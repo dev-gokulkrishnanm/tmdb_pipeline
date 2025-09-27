@@ -1,6 +1,6 @@
 # TMDB ETL Pipeline
 
-A Python-based ETL (Extract, Transform, Load) pipeline that fetches popular movies data from The Movie Database (TMDB) API, processes it, and stores it in a SQLite database.
+A Python-based ETL (Extract, Transform, Load) pipeline that fetches popular movies data from The Movie DB (TMDB) API, processes it, and stores it in a SQLite database.
 
 ## Overview
 
